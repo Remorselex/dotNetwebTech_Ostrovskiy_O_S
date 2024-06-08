@@ -1,0 +1,48 @@
+﻿@using Cloth.Domain.Entities
+@using OS.BLAZOR.Services
+@implements IDisposable
+@rendermode InteractiveServer
+
+
+<h3>Изделие дня</h3>
+@if(ProductService.Products!=null
+
+		&& ProductService.Products.Count() != 0)
+{
+	<table class="table table-striped">
+		<thead>
+		<th>Название</th>
+		<th></th>
+			@foreach (var item in ProductService.Products)
+			{
+			<tr>
+				<td>@item.Name</td>
+				<td>
+					<button class="btn btn-outline-dark"
+							@onclick="@(()=>OnKosuhiSelected(item.Id))">
+						Подробно
+					</button>
+				</td>
+			</tr>
+			}
+		</thead>
+	</table>
+}
+@code {
+	[CascadingParameter]
+	public IProductService<Kosuhi> ProductService { get; set; }
+	[Parameter]
+	public EventCallback<int> KosuhiSelected { get; set; }
+	protected override async Task OnInitializedAsync()
+	{
+		ProductService.ListChanged += StateHasChanged;
+	}
+	public async void OnKosuhiSelected(int id)
+	{
+		await KosuhiSelected.InvokeAsync(id);
+	}
+	public void Dispose()
+	{
+		ProductService.ListChanged -= StateHasChanged;
+	}
+}

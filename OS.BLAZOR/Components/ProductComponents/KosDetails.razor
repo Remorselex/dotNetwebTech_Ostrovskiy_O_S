@@ -1,0 +1,23 @@
+﻿@using Cloth.Domain.Entities
+@using Ostrovskyi.UI
+<h3>Детали</h3>
+
+
+
+	@if(kosuhi!=null)
+	{
+	<div class="card mt-5" style="width: 18rem;">
+	<img src="@kosuhi.Image" class="card-img-top" alt="...">
+	<div class="card-body">
+	<h5 class="card-title">@kosuhi.Name</h5>
+	<p class="card-text">@kosuhi.Description</p>
+
+	</div>
+	</div>
+	}
+	@code {
+	[Parameter]
+	public Kosuhi kosuhi { get; set; }
+	[Parameter]
+	public EventCallback<Kosuhi> KosuhiChanged { get; set; }
+	}

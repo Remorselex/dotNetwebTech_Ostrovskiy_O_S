@@ -1,0 +1,65 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Natac\\source\\repos\\Ostrovskyi.UI.sol\\Ostrovskyi.API\\wwwroot\\Images\\01.jpg",
+      "PackagePath": "staticwebassets\\Images\\01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Natac\\source\\repos\\Ostrovskyi.UI.sol\\Ostrovskyi.API\\wwwroot\\Images\\01.png",
+      "PackagePath": "staticwebassets\\Images\\01.png"
+    },
+    {
+      "Id": "C:\\Users\\Natac\\source\\repos\\Ostrovskyi.UI.sol\\Ostrovskyi.API\\wwwroot\\Images\\02.png",
+      "PackagePath": "staticwebassets\\Images\\02.png"
+    },
+    {
+      "Id": "C:\\Users\\Natac\\source\\repos\\Ostrovskyi.UI.sol\\Ostrovskyi.API\\wwwroot\\Images\\03.png",
+      "PackagePath": "staticwebassets\\Images\\03.png"
+    },
+    {
+      "Id": "C:\\Users\\Natac\\source\\repos\\Ostrovskyi.UI.sol\\Ostrovskyi.API\\wwwroot\\Images\\04.png",
+      "PackagePath": "staticwebassets\\Images\\04.png"
+    },
+    {
+      "Id": "C:\\Users\\Natac\\source\\repos\\Ostrovskyi.UI.sol\\Ostrovskyi.API\\wwwroot\\Images\\05.png",
+      "PackagePath": "staticwebassets\\Images\\05.png"
+    },
+    {
+      "Id": "C:\\Users\\Natac\\source\\repos\\Ostrovskyi.UI.sol\\Ostrovskyi.API\\wwwroot\\Images\\06.png",
+      "PackagePath": "staticwebassets\\Images\\06.png"
+    },
+    {
+      "Id": "C:\\Users\\Natac\\source\\repos\\Ostrovskyi.UI.sol\\Ostrovskyi.API\\wwwroot\\Images\\07.png",
+      "PackagePath": "staticwebassets\\Images\\07.png"
+    },
+    {
+      "Id": "C:\\Users\\Natac\\source\\repos\\Ostrovskyi.UI.sol\\Ostrovskyi.API\\wwwroot\\Images\\08.png",
+      "PackagePath": "staticwebassets\\Images\\08.png"
+    },
+    {
+      "Id": "C:\\Users\\Natac\\source\\repos\\Ostrovskyi.UI.sol\\Ostrovskyi.API\\wwwroot\\Images\\09.png",
+      "PackagePath": "staticwebassets\\Images\\09.png"
+    },
+    {
+      "Id": "C:\\Users\\Natac\\source\\repos\\Ostrovskyi.UI.sol\\Ostrovskyi.API\\wwwroot\\Images\\klk5rfdq.png",
+      "PackagePath": "staticwebassets\\Images\\klk5rfdq.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Ostrovskyi.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Ostrovskyi.API.props",
+      "PackagePath": "build\\Ostrovskyi.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Ostrovskyi.API.props",
+      "PackagePath": "buildMultiTargeting\\Ostrovskyi.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Ostrovskyi.API.props",
+      "PackagePath": "buildTransitive\\Ostrovskyi.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

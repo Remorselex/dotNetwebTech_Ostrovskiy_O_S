@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Natac\\source\\repos\\Ostrovskyi.UI.sol\\OS.BLAZOR\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\OS.BLAZOR.bundle.scp.css",
+      "PackagePath": "staticwebassets\\OS.BLAZOR.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Natac\\source\\repos\\Ostrovskyi.UI.sol\\OS.BLAZOR\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\Natac\\source\\repos\\Ostrovskyi.UI.sol\\OS.BLAZOR\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Natac\\source\\repos\\Ostrovskyi.UI.sol\\OS.BLAZOR\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Natac\\source\\repos\\Ostrovskyi.UI.sol\\OS.BLAZOR\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.OS.BLAZOR.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.OS.BLAZOR.props",
+      "PackagePath": "build\\OS.BLAZOR.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.OS.BLAZOR.props",
+      "PackagePath": "buildMultiTargeting\\OS.BLAZOR.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.OS.BLAZOR.props",
+      "PackagePath": "buildTransitive\\OS.BLAZOR.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

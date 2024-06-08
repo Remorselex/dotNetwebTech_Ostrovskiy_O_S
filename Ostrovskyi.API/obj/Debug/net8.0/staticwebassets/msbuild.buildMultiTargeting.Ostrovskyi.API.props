@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Ostrovskyi.API.props" />
+</Project>

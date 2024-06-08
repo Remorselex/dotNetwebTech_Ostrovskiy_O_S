@@ -1,0 +1,12 @@
+C:\Users\Natac\source\repos\Ostrovskyi.UI.sol\Cloth.Domain\bin\Debug\net8.0\Cloth.Domain.deps.json
+C:\Users\Natac\source\repos\Ostrovskyi.UI.sol\Cloth.Domain\bin\Debug\net8.0\Cloth.Domain.dll
+C:\Users\Natac\source\repos\Ostrovskyi.UI.sol\Cloth.Domain\bin\Debug\net8.0\Cloth.Domain.pdb
+C:\Users\Natac\source\repos\Ostrovskyi.UI.sol\Cloth.Domain\obj\Debug\net8.0\Cloth.Domain.csproj.AssemblyReference.cache
+C:\Users\Natac\source\repos\Ostrovskyi.UI.sol\Cloth.Domain\obj\Debug\net8.0\Cloth.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Natac\source\repos\Ostrovskyi.UI.sol\Cloth.Domain\obj\Debug\net8.0\Cloth.Domain.AssemblyInfoInputs.cache
+C:\Users\Natac\source\repos\Ostrovskyi.UI.sol\Cloth.Domain\obj\Debug\net8.0\Cloth.Domain.AssemblyInfo.cs
+C:\Users\Natac\source\repos\Ostrovskyi.UI.sol\Cloth.Domain\obj\Debug\net8.0\Cloth.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Natac\source\repos\Ostrovskyi.UI.sol\Cloth.Domain\obj\Debug\net8.0\Cloth.Domain.dll
+C:\Users\Natac\source\repos\Ostrovskyi.UI.sol\Cloth.Domain\obj\Debug\net8.0\refint\Cloth.Domain.dll
+C:\Users\Natac\source\repos\Ostrovskyi.UI.sol\Cloth.Domain\obj\Debug\net8.0\Cloth.Domain.pdb
+C:\Users\Natac\source\repos\Ostrovskyi.UI.sol\Cloth.Domain\obj\Debug\net8.0\ref\Cloth.Domain.dll

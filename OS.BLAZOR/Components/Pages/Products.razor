@@ -1,0 +1,29 @@
+﻿@page "/products"
+@using Cloth.Domain.Entities
+@using Cloth.Domain.Models
+@using OS.BLAZOR.Services
+
+
+@rendermode InteractiveServer
+
+<CascadingValue Value="ProductService">
+<KosList KosuhiSelected="ShowDetails" />
+<Pager/>
+</CascadingValue>
+
+<KosDetails kosuhi="SelectedKosuhi" />
+
+@code {
+[Inject] IProductService<Kosuhi> ProductService { get; set; }
+
+[Parameter]
+	public Kosuhi SelectedKosuhi { get; set; }
+	protected override async Task OnInitializedAsync()
+	{
+	await ProductService.GetProducts();
+	}
+	void ShowDetails(int id)
+	{
+	SelectedKosuhi = ProductService.Products.First(d => d.Id == id);
+	}
+}
